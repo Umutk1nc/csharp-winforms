@@ -13,3 +13,4 @@ This repository contains my notes, code, and projects while learning visual prog
 ## Progress
 
 - [x] Lesson 1 - Windows Forms Basics
+- [x] Lesson 2 - RadioButton and CheckBox
